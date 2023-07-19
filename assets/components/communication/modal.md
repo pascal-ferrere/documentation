@@ -10,7 +10,7 @@ Their main feature is that they require a user interaction in order to be remove
 Visually, modals are normally displayed centralised, with the rest of the background content placed underneath a temporary overlay layer (to make it appear less prominent). This behavior blocks interaction with the rest of the application and forces the user to interact with the modal (otherwise the element is considered a dialog component).
 
   
-![modal-cover](https://studio-assets.supernova.io/design-systems/27883/554bcaca-9c1b-43c2-8722-6315c0042426.png)  
+![modal-cover](https://studio-assets.supernova.io/design-systems/27883/6cc980f9-893d-4710-a551-13944bc3afe8.png)  
 modal-cover  
 
 
@@ -49,7 +49,7 @@ The four different variant styles of modals is based upon the same anatomy.
 The modal’s container and interactive elements are displayed in the colors designated by the UI library color styles (which vary based on the product). The width size is fixed, however, the height can be adjusted according to the text size or added elements.
 
   
-![Legend](https://studio-assets.supernova.io/design-systems/27883/e5986ccc-7992-44fd-a066-2d5641a6fa05.png)  
+![Legend](https://studio-assets.supernova.io/design-systems/27883/94eb3c0e-47dd-47cd-a254-f8d70ffb3930.png)  
 Legend, 1. Container
 2. Optional body text — if needed (based on the variant used)
 3. Interactive element — could be buttons (single or stacked) or an input field for adding user text
