@@ -6,7 +6,7 @@ Dropdown components are interactive navigation elements. Their main goal is to a
 ---
 
   
-![dropdown-cover](https://studio-assets.supernova.io/design-systems/27883/7d524cf8-021e-4170-90f6-b8b031667786.png)  
+![dropdown-cover](https://studio-assets.supernova.io/design-systems/27883/32fe00a2-6ff7-4d93-8472-1d10ef9b7a4e.png)  
 dropdown-cover  
 
 

@@ -7,5 +7,5 @@
 > In progress
 
   
-![separator-cover](https://studio-assets.supernova.io/design-systems/27883/ffa46a38-5108-4c4c-ae32-6ec7cb7b6ea5.png)  
+![separator-cover](https://studio-assets.supernova.io/design-systems/27883/6912b15d-d76e-40f4-ad66-bede8e5022f6.png)  
 separator-cover  

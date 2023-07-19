@@ -13,7 +13,7 @@ The tab bar offers users five different primary areas within the app to navigate
 > In progress
 
   
-![tab-bar_cover](https://studio-assets.supernova.io/design-systems/27883/6b892e30-4da3-4ae5-9769-527bdaef02a3.png)  
+![tab-bar_cover](https://studio-assets.supernova.io/design-systems/27883/c6ba4fc2-8697-4eda-b60d-0792eae22208.png)  
 tab-bar_cover  
 
 
@@ -50,7 +50,7 @@ Tab bars vary by region and also if they support notifications or not (depends i
 Tab bars are always displayed full-width.
 
   
-![Legend](https://studio-assets.supernova.io/design-systems/27883/5dcb41c7-2049-4f96-b382-f4633efb2b38.png)  
+![Legend](https://studio-assets.supernova.io/design-systems/27883/1312570c-e045-4053-82db-1f09d0309ffb.png)  
 Legend, 1. Container
 2. Icon
 3. Text label
@@ -61,7 +61,7 @@ Legend, 1. Container
 ## Placement
 
   
-![tab-bar_placement](https://studio-assets.supernova.io/design-systems/27883/79b7ad8c-73b6-4c1b-b3ad-25441d66d2ff.png)  
+![tab-bar_placement](https://studio-assets.supernova.io/design-systems/27883/22a0354f-127c-46a4-9a62-981f9d4bce9b.png)  
 tab-bar_placement  
 
 

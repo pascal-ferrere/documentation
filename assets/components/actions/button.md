@@ -8,7 +8,7 @@ Buttons are simple, atom-level components — we consider them to be one of the 
 For this reason, they form an integral part of the Betclic digital experience because they allow users to make quick decisions regarding initiating actions and achieving their intended goals — therefore we must be considerate and purposeful with their usage, placement, and function. When creating text labels we must be concise because the speed of the betting experience should not be impacted by users having to read lengthy button text.
 
   
-![button-cover](https://studio-assets.supernova.io/design-systems/27883/da857c2d-549d-477b-8cce-a5c5b9a0a2ac.png)  
+![button-cover](https://studio-assets.supernova.io/design-systems/27883/25be2e86-599c-4ca6-9b03-879320feb7e6.png)  
 button-cover  
 
 
@@ -55,7 +55,7 @@ Betclic buttons are offered in many variants and sub-variants, as well as differ
 ### System button variants
 
   
-![button-variant](https://studio-assets.supernova.io/design-systems/27883/7850ab74-fbd2-40b9-b602-1185adef117b.png)  
+![button-variant](https://studio-assets.supernova.io/design-systems/27883/4ae73a5f-18e1-45d7-9dd3-ce166d7fcf03.png)  
 button-variant  
 
 
@@ -122,7 +122,7 @@ Cashout buttons always contain an icon and are available in these three visual o
 All Betclic buttons exist in various states. Each state is represented by a slightly different variation of its default state color.
 
   
-![button-system-state](https://studio-assets.supernova.io/design-systems/27883/6543e973-b85c-4f31-9f5c-9022d2fd57da.png)  
+![button-system-state](https://studio-assets.supernova.io/design-systems/27883/315fcc6d-6e59-4fb1-ac8c-2af89d5449c6.png)  
 button-system-state  
 
 
@@ -141,7 +141,7 @@ button-system-state
 - Countdown (represented by horizontal loading bar)
 
   
-![button-betting-state](https://studio-assets.supernova.io/design-systems/27883/1bf06548-6ed3-42dd-b04d-76243393f429.png)  
+![button-betting-state](https://studio-assets.supernova.io/design-systems/27883/96d0f0ff-aa67-429a-a3bb-50a4ea0f50c0.png)  
 button-betting-state  
 
 
@@ -160,7 +160,7 @@ button-betting-state
 - Suspended
 
   
-![button-cashout-state](https://studio-assets.supernova.io/design-systems/27883/c311967e-ef45-47c3-996d-13c626a5ee2d.png)  
+![button-cashout-state](https://studio-assets.supernova.io/design-systems/27883/1d53eb4d-a5b9-474e-a174-58cb647c13fb.png)  
 button-cashout-state  
 
 
@@ -183,7 +183,7 @@ button-cashout-state
 Most Betclic buttons are formed from a container, label text (and optional numeric values), and an optional icon (which always appears on the left or on top). Some buttons are formed from an icon alone. In general, the anatomy of our buttons is as follows:
 
   
-![Legend](https://studio-assets.supernova.io/design-systems/27883/58f077a5-afd5-4d9a-9291-795e8e4ed89b.png)  
+![Legend](https://studio-assets.supernova.io/design-systems/27883/de727749-8b29-4817-922b-4700d4339bfb.png)  
 Legend, 1. Container
 2. Text and/or Numeric value label
 3. Optional icon  
