@@ -7,15 +7,6 @@
 
 ### Font families
 
-  
-**Token Group Font Family / typo / family**:    
-sf-pro-display: "SF Pro Display"  
-sf-pro-text: "SF Pro Text"  
-roboto: "Roboto"  
-rift: "Rift"  
-metropolis: "Metropolis"  
-
-
 ### Font sizes
 
   
@@ -35,18 +26,6 @@ xxxsmall: 10px
 
 
 ### Font weights
-
-  
-**Token Group Font Weight / typo / fontweight**:    
-regular: "Regular"  
-regular-italic: "Regular Italic"  
-medium: "Medium"  
-medium-italic: "Medium Italic"  
-bold: "Bold"  
-bold-italic: "Bold Italic"  
-black: "Black"  
-black-italic: "Black Italic"  
-
 
 ### Line heights
 
