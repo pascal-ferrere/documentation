@@ -8,7 +8,7 @@ The bottom sheet is an interactive container situated at the bottom of the scree
 The presence of bottom sheets is decided by the user. This means they can be quickly removed or redeployed depending on the needs of the user — this makes them particularly useful for specific actions or goals.
 
   
-![bottom-sheet-cover](https://studio-assets.supernova.io/design-systems/27883/61b680fa-2ca2-4585-9228-91a68fc898da.png)  
+![bottom-sheet-cover](https://studio-assets.supernova.io/design-systems/27883/5e132106-5204-4a45-a6c4-a34649df72d9.png)  
 bottom-sheet-cover  
 
 
@@ -31,12 +31,12 @@ We use bottom sheets for four distinct usage patterns. These patterns are furthe
 Bottom sheets do not have different states because they are either active on screen or they are not visible.
 
   
-![bottom-sheet-variant-A](https://studio-assets.supernova.io/design-systems/27883/5ec55a26-22d3-43e2-8841-2f5bf5256ffa.png)  
+![bottom-sheet-variant-A](https://studio-assets.supernova.io/design-systems/27883/94fc7fcb-0b48-42ce-97a6-deff5dc7f501.png)  
 bottom-sheet-variant-A  
 
 
   
-![bottom-sheet-variant-B](https://studio-assets.supernova.io/design-systems/27883/7422b5cc-c91a-4ba5-864b-7b0514a8c4cd.png)  
+![bottom-sheet-variant-B](https://studio-assets.supernova.io/design-systems/27883/84ecacbc-3d2b-47ac-8820-64760fd0e31a.png)  
 bottom-sheet-variant-B  
 
 
@@ -77,7 +77,7 @@ Bottom sheets always stretch their width to the edge of the screen, they don’t
 As an overview, a bottom sheet will be comprised of the following elements:
 
   
-![Legend](https://studio-assets.supernova.io/design-systems/27883/755121e7-66c3-4c36-9349-7b2951c299d8.png)  
+![Legend](https://studio-assets.supernova.io/design-systems/27883/4cf9d66d-7254-4fc0-99f8-995551d8c119.png)  
 Legend, 1. Container
 2. Content (such as text boxes, buttons, input fields, etc.)  
   

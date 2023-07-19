@@ -5,13 +5,14 @@ Welcome to our design system documentation! Below you will find the entire conte
 ## Content
  
 ### Foundations
-- [Layout](./foundations/layout/grid-unit.md)
-  - [Grid unit](./foundations/layout/grid-unit.md)
-  - [Border radius](./foundations/layout/border-radius.md)
-  - [Sizing](./foundations/layout/sizing.md)
-  - [Opacity](./foundations/layout/opacity.md)
-  - [Shadows](./foundations/layout/shadows.md)
-  - [Blur](./foundations/layout/blur.md)
+- [Design](./foundations/design/layout.md)
+  - [Layout](./foundations/design/layout.md)
+  - [Grid unit](./foundations/design/grid-unit.md)
+  - [Border radius](./foundations/design/border-radius.md)
+  - [Size](./foundations/design/size.md)
+  - [Opacity](./foundations/design/opacity.md)
+  - [Shadow](./foundations/design/shadow.md)
+  - [Blur](./foundations/design/blur.md)
 - [Color](./foundations/color/color-guidelines.md)
   - [Color guidelines](./foundations/color/color-guidelines.md)
   - [Color palettes](./foundations/color/color-palettes/main-colors.md)

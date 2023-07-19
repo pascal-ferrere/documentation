@@ -195,6 +195,7 @@ betting-on-live: rgb(255, 204, 0)
 betting-trend-up: rgb(255, 255, 255)  
 betting-trend-down: rgb(255, 255, 255)  
 cashout_alt: rgb(0, 158, 226)  
+betting-off-suspended: rgb(93, 100, 115)  
 
 
 ### Icons

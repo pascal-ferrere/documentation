@@ -8,37 +8,37 @@ The source of truth to design and build at Betclic.
 ## Getting started
 
   
-[![Components](https://studio-assets.supernova.io/design-systems/27883/3bc23bd1-f8ec-4a89-b952-2289269633e9.png)](#)  
+[![Components](https://studio-assets.supernova.io/design-systems/27883/5d6e5918-7549-43bb-82cc-81712a4793ed.png)](#)  
 Components, The building blocks which are necessary to shape a great User Interface with perfect consistency.  
   
-[![Tokens](https://studio-assets.supernova.io/design-systems/27883/20a73052-f30c-424d-81fc-5b33c9e5f258.png)](#)  
+[![Tokens](https://studio-assets.supernova.io/design-systems/27883/b9d164e5-85ae-491a-b157-e2513f95e46a.png)](#)  
 Tokens, Design tokens are the links connecting both worlds of Code and Design, letting us speak the same language.  
   
-[![Iconography](https://studio-assets.supernova.io/design-systems/27883/e4c56234-3d29-46d9-8711-678684968406.png)](#)  
-Iconography, The main elements, design principles and guidelines in order to build a coherent and consistent product.  
+[![Iconography](https://studio-assets.supernova.io/design-systems/27883/6fb2f9c5-1025-44f1-8216-4a9d139224d3.png)](#)  
+Iconography, Icons are most appropriate for representing simple, recognizable concepts or actions.  
   
 
 
 ## Foundations
 
   
-[![Color](https://studio-assets.supernova.io/design-systems/27883/dd9629ca-5483-4961-9fcd-f8abb500da38.png)](#)  
-Color  
+[![Color](https://studio-assets.supernova.io/design-systems/27883/b7d8dde1-6a66-43ad-92ab-04f0f90fa974.png)](#)  
+Color, The most fundamental element of Design in order to build a branded product.  
   
-[![Typography](https://studio-assets.supernova.io/design-systems/27883/d73d70a5-6a03-4ead-81aa-4149aff581f9.png)](#)  
-Typography  
+[![Typography](https://studio-assets.supernova.io/design-systems/27883/d4634c4c-08fb-4452-b6d6-756cf631b1ec.png)](#)  
+Typography, Text sizes, weights and font families used across our product to make an impact.  
   
-[![Layout](https://studio-assets.supernova.io/design-systems/27883/8a4ef064-2254-42ba-b51e-e5ae85d78a90.png)](#)  
-Layout  
+[![Layout](https://studio-assets.supernova.io/design-systems/27883/2401544d-799a-4c83-b1bb-8eea2a33bd43.png)](#)  
+Layout, The guidelines to build consistent, accessible, and responsive experiences.   
   
 
 
 ## Content
 
   
-[![Language & Grammar](https://studio-assets.supernova.io/design-systems/27883/802c5ca1-7346-4611-a3b0-2a138d4ed58b.png)](./foundations/content/language-and-grammar-12JO8bAy)  
-Language & Grammar  
+[![Language & Grammar](https://studio-assets.supernova.io/design-systems/27883/4aba8724-6a57-4c49-9638-0fe1c1336dba.png)](./foundations/content/language-and-grammar-12JO8bAy)  
+Language & Grammar, Using a clear and precise language to create a better experience for all users.  
   
-[![Tone & Voice](https://studio-assets.supernova.io/design-systems/27883/9c360689-1d49-49bb-a99e-691609c3115d.png)](./foundations/content/tone-and-voice-RsNNa2Gf)  
-Tone & Voice  
+[![Tone & Voice](https://studio-assets.supernova.io/design-systems/27883/6ae9ca6c-adc9-48a1-926b-4744723abbd1.png)](./foundations/content/tone-and-voice-RsNNa2Gf)  
+Tone & Voice, Talking to our users the right way in the right context to provide the best experience.   
   

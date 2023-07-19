@@ -6,7 +6,7 @@ Input fields allow users to enter editable text or numeric values into the UI.
 ---
 
   
-![input-field-cover](https://studio-assets.supernova.io/design-systems/27883/add3dccc-f9ca-48d1-995b-2f829b8c45ee.png)  
+![input-field-cover](https://studio-assets.supernova.io/design-systems/27883/a17a7fe7-2e89-488a-b39d-337fc042c97f.png)  
 input-field-cover  
 
 
@@ -33,9 +33,9 @@ We use three types of input fields:
   
 | Column 1 | Column 2 |  
 | --- | --- |  
-| ![Img](https://studio-assets.supernova.io/design-systems/27883/8abf4661-6c0c-4c5d-9586-24b61e11380f.png) | ![Img](https://studio-assets.supernova.io/design-systems/27883/ecaf0262-df44-48ed-b54c-5ee400f5567b.png) |  
+| ![Img](https://studio-assets.supernova.io/design-systems/27883/5bc82d45-fd19-4c4e-a767-d116518f6d1d.png) | ![Img](https://studio-assets.supernova.io/design-systems/27883/9ae92992-4216-4841-8716-dd5a85e7ce86.png) |  
 |  |  |  
-| ![Img](https://studio-assets.supernova.io/design-systems/27883/dd6ce10f-0e88-4fdf-989c-ce52ff196ff4.png) | ![Img](https://studio-assets.supernova.io/design-systems/27883/3e76ad66-a525-45ef-a806-cda7996ed833.png) |  
+| ![Img](https://studio-assets.supernova.io/design-systems/27883/5b13df71-daea-4e37-b689-68ea6f33ea87.png) | ![Img](https://studio-assets.supernova.io/design-systems/27883/45774937-3294-4498-b3ed-0e703c1d811d.png) |  
 |  |  |  
 
 
@@ -54,15 +54,15 @@ All types of input fields use a container to provide a visual cue for interactio
   
 | Column 1 | Column 2 |  
 | --- | --- |  
-| ![Img](https://studio-assets.supernova.io/design-systems/27883/9f0376c7-e3b6-472e-9b02-2f03d36ab388.png) | ![Img](https://studio-assets.supernova.io/design-systems/27883/c827759e-bb48-47de-abd2-3a21318c029a.png) |  
+| ![Img](https://studio-assets.supernova.io/design-systems/27883/94a4f719-45ab-4ea9-83eb-10e76b7e6a1e.png) | ![Img](https://studio-assets.supernova.io/design-systems/27883/a997fb82-c427-4cec-9d20-faa519a58f7b.png) |  
 | *Placeholder* | *Selected* |  
-| ![Img](https://studio-assets.supernova.io/design-systems/27883/7ceaf07d-84cd-4355-b1fa-fc6cca8d9066.png) | ![Img](https://studio-assets.supernova.io/design-systems/27883/6ba9f199-f053-40f4-975a-cb6afd4362a0.png) |  
+| ![Img](https://studio-assets.supernova.io/design-systems/27883/7242b220-af4c-4843-802b-fc91e11831fb.png) | ![Img](https://studio-assets.supernova.io/design-systems/27883/48b8894f-d2be-423f-af40-db831239b8b2.png) |  
 | *Validation steps* | *Neutral message* |  
-| ![Img](https://studio-assets.supernova.io/design-systems/27883/4be7bb06-9e74-40a5-8390-f23297fe0bc7.png) | ![Img](https://studio-assets.supernova.io/design-systems/27883/d187a89b-e6ef-4c7f-a8b8-7341a3634277.png) |  
+| ![Img](https://studio-assets.supernova.io/design-systems/27883/c79c1c1e-81c4-46db-8e5a-453f14ee3fc2.png) | ![Img](https://studio-assets.supernova.io/design-systems/27883/33aa7806-c09d-4a05-b1dd-49baf8f09653.png) |  
 | *Positive message* | *Error* |  
-| ![Img](https://studio-assets.supernova.io/design-systems/27883/0069fabf-6ff4-40ee-962e-6f57167b1808.png) | ![Img](https://studio-assets.supernova.io/design-systems/27883/d460b9fa-8c39-4f68-ac3d-7c5172fcffc2.png) |  
+| ![Img](https://studio-assets.supernova.io/design-systems/27883/7e215c14-c71e-4d65-a19c-66128c242be3.png) | ![Img](https://studio-assets.supernova.io/design-systems/27883/47351aef-e1bb-4e18-9e6d-c78596a72e84.png) |  
 | *Error + alert* | *Error + alert + message* |  
-| ![Img](https://studio-assets.supernova.io/design-systems/27883/071ba2d7-6b9e-4042-a830-2162b7b3f19c.png) |  |  
+| ![Img](https://studio-assets.supernova.io/design-systems/27883/6fb50386-cdc8-47c3-9e0c-cca8778ccf27.png) |  |  
 | *Disabled* |  |  
 
 
