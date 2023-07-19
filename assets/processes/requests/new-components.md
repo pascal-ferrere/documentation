@@ -4,5 +4,5 @@
 ---
 
   
-![thumbnail_components](https://studio-assets.supernova.io/design-systems/27883/231601f8-7cf6-4160-aeb2-7638d612f5af.png)  
+![thumbnail_components](https://studio-assets.supernova.io/design-systems/27883/3e077777-eb82-4a07-b493-6a153fa6ed22.png)  
 thumbnail_components  

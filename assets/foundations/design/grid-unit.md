@@ -6,7 +6,7 @@ A reference value to build everything else.
 ---
 
   
-![thumbnail_grid](https://studio-assets.supernova.io/design-systems/27883/5bdbf252-55de-4c87-863c-8ed1b342207a.png)  
+![thumbnail_grid](https://studio-assets.supernova.io/design-systems/27883/318520ea-2130-45f4-9fd0-0de22ef036ee.png)  
 thumbnail_grid  
 
 

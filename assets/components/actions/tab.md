@@ -6,7 +6,7 @@ Tabs help users navigate between different content within a section or page. The
 ---
 
   
-![tab-cover](https://studio-assets.supernova.io/design-systems/27883/678bed80-a40c-4614-a7c2-8cc25c6785d1.png)  
+![tab-cover](https://studio-assets.supernova.io/design-systems/27883/170b3e88-1448-4279-9e74-bd622c2455cf.png)  
 tab-cover  
 
 
@@ -73,7 +73,7 @@ tab-icon-and-text
 ## Anatomy
 
   
-![Legend](https://studio-assets.supernova.io/design-systems/27883/5be9dd74-8277-4567-832b-79f841e55ad6.png)  
+![Legend](https://studio-assets.supernova.io/design-systems/27883/946d82de-c681-4558-8bd7-a4667cc4f2de.png)  
 Legend, 1. Selected: The active tab.
 2. Unselected: The other available tabs.
 3. Divider: Separates the tab navigation and content.  
@@ -83,12 +83,12 @@ Legend, 1. Selected: The active tab.
 ## Placement
 
   
-![tab-placement-A](https://studio-assets.supernova.io/design-systems/27883/9ee9ed48-0ad7-4886-aaad-050d007727c9.png)  
+![tab-placement-A](https://studio-assets.supernova.io/design-systems/27883/da011e67-76e7-485d-a3a3-0f343fe78e1f.png)  
 tab-placement-A  
 
 
   
-![tab-placement-B](https://studio-assets.supernova.io/design-systems/27883/bfca1d6d-9e7e-4b00-8d8e-881672d3582b.png)  
+![tab-placement-B](https://studio-assets.supernova.io/design-systems/27883/07b57ba1-f648-4021-b134-2aac5f053d11.png)  
 tab-placement-B  
 
 
