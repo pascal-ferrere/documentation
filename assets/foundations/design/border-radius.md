@@ -4,5 +4,5 @@
 ---
 
   
-![thumbnail_radius](https://studio-assets.supernova.io/design-systems/27883/6789f874-b3ca-492e-adbf-bff984a6cc89.png)  
+![thumbnail_radius](https://studio-assets.supernova.io/design-systems/27883/04e02e02-29b6-4c4b-a5b2-8fc51182d0ed.png)  
 thumbnail_radius  

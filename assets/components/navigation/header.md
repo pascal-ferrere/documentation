@@ -8,7 +8,7 @@ The header is a sticky, modular element that appears across the top of the appli
 In progress
 
   
-![header-cover](https://studio-assets.supernova.io/design-systems/27883/57eadfe0-b507-419e-b817-4fc442d6cb7b.png)  
+![header-cover](https://studio-assets.supernova.io/design-systems/27883/32409351-13ae-4a57-bd03-c672de639d95.png)  
 header-cover  
 
 
@@ -39,7 +39,7 @@ Headers change state according to the interaction that takes place, e.g. using t
 Headers also change state depending on whether the user is logged-in or not. Occasionally, the header element will temporarily disappear, however, this only occurs when a full-screen image appears (such as a promo ad).
 
   
-![header-state](https://studio-assets.supernova.io/design-systems/27883/d388f435-7bca-479c-b4fb-0713b389104f.png)  
+![header-state](https://studio-assets.supernova.io/design-systems/27883/66e58833-2073-4d36-a2ce-9813d0ffd93d.png)  
 header-state  
 
 
@@ -56,17 +56,17 @@ header-state
 As mentioned, different header variants are used for different purposes or applications. It should be intuitive which header is used for which purpose (just by looking at them in the library).
 
   
-![header-variant-1](https://studio-assets.supernova.io/design-systems/27883/fee0141c-a970-4df1-84a4-3fc08f5cede0.png)  
+![header-variant-1](https://studio-assets.supernova.io/design-systems/27883/39954ed2-098c-4c0c-a4d4-1387ff535b66.png)  
 header-variant-1  
 
 
   
-![header-variant-2](https://studio-assets.supernova.io/design-systems/27883/2e43a0df-b61a-4ba5-9519-0b9e1ee3cda3.png)  
+![header-variant-2](https://studio-assets.supernova.io/design-systems/27883/dec0ba40-41fd-4078-ad28-ea30fe79f27e.png)  
 header-variant-2  
 
 
   
-![header-variant-3](https://studio-assets.supernova.io/design-systems/27883/bfb4b72f-d099-43c6-8e4b-0c85b9c10d5e.png)  
+![header-variant-3](https://studio-assets.supernova.io/design-systems/27883/65a211be-f1ed-443e-959c-6e5ae968fb02.png)  
 header-variant-3  
 
 

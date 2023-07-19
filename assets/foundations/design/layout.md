@@ -6,7 +6,7 @@ The structure defining how our product looks for every platforme in all sizes.
 ---
 
   
-![thumbnail_layout](https://studio-assets.supernova.io/design-systems/27883/d57ad309-e725-4822-8594-429359fd8629.png)  
+![thumbnail_layout](https://studio-assets.supernova.io/design-systems/27883/d8423aa7-eb58-4aa8-b6e9-96797965dae2.png)  
 thumbnail_layout  
 
 
