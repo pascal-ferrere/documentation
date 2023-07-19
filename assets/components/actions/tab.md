@@ -1,12 +1,14 @@
 
 # Tab
 
-Tabs help users navigate between different content within a section or page. The content or data tabs contain is grouped in themes and are aligned to similar information on the same page. Tabs are always used at the top of a section in order to indicate to the user that they filter content directly below it. Active tabs are always highlighted and you will never see less than two of them on screen.
+Tabs help users navigate between different content within a section or page. The content or data tabs contain is grouped in themes and are aligned to similar information on the same page.
 
 ---
 
+Tabs are always used at the top of a section in order to indicate to the user that they filter content directly below it. Active tabs are always highlighted and you will never see less than two of them on screen.
+
   
-![tab-cover](https://studio-assets.supernova.io/design-systems/27883/33016617-fdb4-46de-8e2d-4d9809aecb90.png)  
+![tab-cover](https://studio-assets.supernova.io/design-systems/27883/7a1b6a6e-3755-4e6f-97bc-8f632ec59115.png)  
 tab-cover  
 
 
@@ -73,7 +75,7 @@ tab-icon-and-text
 ## Anatomy
 
   
-![Legend](https://studio-assets.supernova.io/design-systems/27883/f07adfe9-58dd-40c8-82f5-caf92cb8172b.png)  
+![Legend](https://studio-assets.supernova.io/design-systems/27883/8fbc59b5-12b4-40f4-a9b6-77eb75293995.png)  
 Legend, 1. Selected: The active tab.
 2. Unselected: The other available tabs.
 3. Divider: Separates the tab navigation and content.  
@@ -83,12 +85,12 @@ Legend, 1. Selected: The active tab.
 ## Placement
 
   
-![tab-placement-A](https://studio-assets.supernova.io/design-systems/27883/4410474c-3ade-4ab0-a0c3-37340f59dad9.png)  
+![tab-placement-A](https://studio-assets.supernova.io/design-systems/27883/51a95377-94d3-4871-9f49-dc9608dbe58c.png)  
 tab-placement-A  
 
 
   
-![tab-placement-B](https://studio-assets.supernova.io/design-systems/27883/6fecacdb-a3de-49d9-baab-a79064e09d65.png)  
+![tab-placement-B](https://studio-assets.supernova.io/design-systems/27883/b30d3454-48b6-410e-947e-2de0f61e61c0.png)  
 tab-placement-B  
 
 

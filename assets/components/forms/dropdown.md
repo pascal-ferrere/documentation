@@ -5,14 +5,14 @@ Dropdown components are interactive navigation elements. Their main goal is to a
 
 ---
 
-  
-![dropdown-cover](https://studio-assets.supernova.io/design-systems/27883/376db074-4495-4401-a5a4-8fa3ece61133.png)  
-dropdown-cover  
-
-
 Dropdowns are great for speeding-up user flows — this is because the user has to select a single input from a pre-defined list (such as choosing a street name within address forms) — they differ from other input field elements because the user must confirm their choice.
 
 In basic terms, the dropdown component is a menu module in which options (hidden by default) are displayed after interacting. The user chooses an option and the flow continues.
+
+  
+![dropdown-cover](https://studio-assets.supernova.io/design-systems/27883/123db3c8-d9ed-4179-b529-ab88c8af8ca8.png)  
+dropdown-cover  
+
 
 ## Usage
 

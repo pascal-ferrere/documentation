@@ -8,7 +8,7 @@ The counter component allows users to increase or decrease values quickly and ea
 This interactive component is similar to an input field in appearance, however, rather than its value being directly editable, it is controlled via two selectable plus and minus elements. Its visual design is intuitive to use by the user during the betting experience and as a consequence, its placement must be carefully considered on the UI.
 
   
-![counter-cover](https://studio-assets.supernova.io/design-systems/27883/12da2483-07d0-4152-98d2-39c8853b0a57.png)  
+![counter-cover](https://studio-assets.supernova.io/design-systems/27883/ce7acb6c-5a89-44e2-aacd-41f7f28db299.png)  
 counter-cover  
 
 
@@ -55,7 +55,7 @@ The main difference between input fields and counters is the selectable input co
 ## Placement
 
   
-![counter-placement](https://studio-assets.supernova.io/design-systems/27883/c313e600-5307-430b-88ca-b08aa2e8ca67.png)  
+![counter-placement](https://studio-assets.supernova.io/design-systems/27883/324b8471-f34b-43f1-bff7-43f8d445dd30.png)  
 counter-placement  
 
 

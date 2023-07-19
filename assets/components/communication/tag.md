@@ -8,7 +8,7 @@ Tags are non-interactive elements used for visual labeling on the UI.
 Simply put, tags are colored badges that contain textual information relevant to the user’s understanding of a page’s content or betting information. For example, they could be used to display a game’s results or the number of bets placed on a game.
 
   
-![tag-cover](https://studio-assets.supernova.io/design-systems/27883/e74befb0-fad4-4a9e-8a7d-d1cd1ee736c0.png)  
+![tag-cover](https://studio-assets.supernova.io/design-systems/27883/55b5b388-902f-4ad2-91c9-bace0b5901ae.png)  
 tag-cover  
 
 
@@ -27,9 +27,9 @@ This component is used for:
 - Bet results (Won / Lost / Cancelled)
 
   
-![tag-usage-labelling](https://studio-assets.supernova.io/design-systems/27883/01b6b940-7c8a-4ece-bcd8-5cadad42d845.png)  
+![tag-usage-labelling](https://studio-assets.supernova.io/design-systems/27883/c7898b1b-b0f6-4006-8345-9f47f1b1fadd.png)  
 tag-usage-labelling  
-![tag-usage-bet-result](https://studio-assets.supernova.io/design-systems/27883/4cf07a29-9048-43d8-ada0-d3bf8b8db86f.png)  
+![tag-usage-bet-result](https://studio-assets.supernova.io/design-systems/27883/cffda62b-e581-4f67-a3ff-b733409f7959.png)  
 tag-usage-bet-result  
 
 
@@ -38,29 +38,29 @@ tag-usage-bet-result
 Tags are available in many different styles — their relevance and importance on the UI are dictated by their color. These are the following styles in use:
 
   
-![neutral](https://studio-assets.supernova.io/design-systems/27883/83fb281b-2d47-40fc-a260-57637ee2c8d3.png)  
+![neutral](https://studio-assets.supernova.io/design-systems/27883/257c22d4-e89c-40b7-8e67-a7a7f6b35e03.png)  
 neutral  
-![canceled](https://studio-assets.supernova.io/design-systems/27883/ff679669-b533-4d31-b6ab-e06b734e9105.png)  
+![canceled](https://studio-assets.supernova.io/design-systems/27883/8c47d687-eee7-428e-a484-7728e995b750.png)  
 canceled  
-![positive-soft](https://studio-assets.supernova.io/design-systems/27883/c60665af-f2d3-4725-9143-de7dd26ba101.png)  
+![positive-soft](https://studio-assets.supernova.io/design-systems/27883/a0a2ffe1-aebd-4c05-8de8-17d833cbfe6a.png)  
 positive-soft  
-![positive](https://studio-assets.supernova.io/design-systems/27883/987401e8-0757-4f78-aac8-140fca19e6f3.png)  
+![positive](https://studio-assets.supernova.io/design-systems/27883/ca04d121-edc9-41d5-8f6b-7efdd9f12283.png)  
 positive  
-![negative](https://studio-assets.supernova.io/design-systems/27883/0098f01a-12ae-4c28-96a9-64ce18cbc8aa.png)  
+![negative](https://studio-assets.supernova.io/design-systems/27883/2eb2ed38-6098-499f-90e3-9f7aaa1d3612.png)  
 negative  
-![important](https://studio-assets.supernova.io/design-systems/27883/787af226-6680-4d0c-93ff-f3bc3b6dc5f0.png)  
+![important](https://studio-assets.supernova.io/design-systems/27883/9681cc30-1b3c-4e63-970e-9bc613276452.png)  
 important  
-![warning](https://studio-assets.supernova.io/design-systems/27883/905cb93d-7a2e-4d6f-baf9-8b353d8c5f0b.png)  
+![warning](https://studio-assets.supernova.io/design-systems/27883/2f9babbb-f991-47d8-a577-61cbcb793445.png)  
 warning  
-![cashout](https://studio-assets.supernova.io/design-systems/27883/48c5ce3d-6dcd-4ea8-a514-2c418a1598b5.png)  
+![cashout](https://studio-assets.supernova.io/design-systems/27883/0f05ec5d-5377-4ee9-bb04-26d852d3e660.png)  
 cashout  
-![information](https://studio-assets.supernova.io/design-systems/27883/3110e02e-3d11-4a1c-93f6-33070856bbd4.png)  
+![information](https://studio-assets.supernova.io/design-systems/27883/24f05054-7e31-434b-8f96-5201784e1bd3.png)  
 information  
-![strong](https://studio-assets.supernova.io/design-systems/27883/f0ff1ef8-72d1-47cc-bcc2-ce48b8378e32.png)  
+![strong](https://studio-assets.supernova.io/design-systems/27883/38d8e299-d20c-42e4-9bba-cae057cb9875.png)  
 strong  
-![score](https://studio-assets.supernova.io/design-systems/27883/c26d426c-df8b-4728-802b-159dd9db49d1.png)  
+![score](https://studio-assets.supernova.io/design-systems/27883/7a08b141-98b8-4bc7-9593-247b3887faeb.png)  
 score  
-![superlive](https://studio-assets.supernova.io/design-systems/27883/c0921fce-02e7-4310-80c5-a67395ebb266.png)  
+![superlive](https://studio-assets.supernova.io/design-systems/27883/85785d96-c82e-4850-9f78-9ecaf6cf0c02.png)  
 superlive  
 
 
@@ -79,7 +79,7 @@ In addition to all the different styles listed above, tags are available in the 
 Tags are simple elements comprised of a non-interactive colored container, an optional icon, and a text label. Their color indicates their usage.
 
   
-![Legend](https://studio-assets.supernova.io/design-systems/27883/6c9f2cea-b0b6-499e-b882-f75c071942c0.png)  
+![Legend](https://studio-assets.supernova.io/design-systems/27883/8fb83565-cde1-49fa-a3ec-20603fdecf9b.png)  
 Legend, 1. Container — available in various colors that are used to display different styles.
 2. Optional icon — icons are placed 8 px to the left side of the text label.
 3. Text label — for written or numeric information such as game results or amount of bets placed.  
@@ -101,16 +101,16 @@ Their style and content will change according to game updates or system changes.
 ## Dos & Don’ts
 
   
-![✅ DO](https://studio-assets.supernova.io/design-systems/27883/33d4743d-d668-45da-a0b0-0bb5223032df.png)  
+![✅ DO](https://studio-assets.supernova.io/design-systems/27883/4c5cef87-16bb-4417-aec1-1a4f0cb4187a.png)  
 ✅ DO, Use tags to display customized, personalized snippets of textual info that need to stand out from the standard UI. This textual information could include gaming or betting information.  
   
-![🚫 DON'T](https://studio-assets.supernova.io/design-systems/27883/ece42351-b1d8-4f28-b6ad-d4727979c3b8.png)  
+![🚫 DON'T](https://studio-assets.supernova.io/design-systems/27883/48aeb7f6-2d52-4513-a9d6-9de0195ccf27.png)  
 🚫 DON'T, Avoid using tags for marketing messages or general system info — this is not their purpose. Tags are used for customized info generally related to the betting or game experience.  
   
-![✅ DO](https://studio-assets.supernova.io/design-systems/27883/cb6dd95e-fd7c-4999-aacf-7ba6eb05f2aa.png)  
+![✅ DO](https://studio-assets.supernova.io/design-systems/27883/d9626770-f6d5-48b5-95b2-0703fe1c341f.png)  
 ✅ DO, Use tags sparingly and be considerate with their placement. A typical UI should only contain tags if they are needed.  
   
-![🚫 DON'T](https://studio-assets.supernova.io/design-systems/27883/9d4048ea-6d4a-457e-96c5-b46a157ecf27.png)  
+![🚫 DON'T](https://studio-assets.supernova.io/design-systems/27883/1599e7d4-efe2-4609-8445-5dc5860725b0.png)  
 🚫 DON'T, Avoid placing tags near interactive elements — user confusion can occur if a tag’s purpose is not understood.  
   
 

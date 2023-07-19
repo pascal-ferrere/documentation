@@ -10,7 +10,7 @@ Timers always display two letters that represent different measurements of time,
 They are similar to the tag component because they are small, non-interactive elements and their function is to inform the user of when an upcoming game is about to start or when an event is about to go live.
 
   
-![timer-cover](https://studio-assets.supernova.io/design-systems/27883/06c41f72-8d16-4ec7-95d0-5b0ace0aeabb.png)  
+![timer-cover](https://studio-assets.supernova.io/design-systems/27883/74a5575c-08aa-4ae6-8007-ff6695f79e99.png)  
 timer-cover  
 
 
@@ -27,9 +27,9 @@ Timers only exist in two states:
 - Warning
 
   
-![timer-example-1](https://studio-assets.supernova.io/design-systems/27883/4ad96508-47fc-4137-80a1-7ebcb3f0ea8f.png)  
+![timer-example-1](https://studio-assets.supernova.io/design-systems/27883/f0d61dea-514c-4f5d-928e-3db47e0d6f3f.png)  
 timer-example-1  
-![timer-example-2](https://studio-assets.supernova.io/design-systems/27883/ba9089a6-21ac-4f47-a932-4c8e89dcb213.png)  
+![timer-example-2](https://studio-assets.supernova.io/design-systems/27883/bf6bda1b-1cc2-49e7-b825-b3c676c77829.png)  
 timer-example-2  
 
 
@@ -60,27 +60,27 @@ Timers are always used in their regional language, these are the following abbre
 For clarity, this list explains the formatting style of abbreviations in English:
 
   
-![year](https://studio-assets.supernova.io/design-systems/27883/2b13127a-4267-4b09-be9b-79facfb00e50.png)  
+![year](https://studio-assets.supernova.io/design-systems/27883/cdf86f75-9c32-41db-b682-c1a5541be3c0.png)  
 year, 3 years 9 months
 3y 9mo  
   
-![month](https://studio-assets.supernova.io/design-systems/27883/cd86aea9-ee6c-4464-9d60-0db3ba5fb0d0.png)  
+![month](https://studio-assets.supernova.io/design-systems/27883/edae32c9-6400-49cf-b2c1-d1a553d27ea8.png)  
 month, 9 months 12 days
 9mo 12d  
   
-![day](https://studio-assets.supernova.io/design-systems/27883/acc0968d-4c98-47cc-8392-332f5b14446c.png)  
+![day](https://studio-assets.supernova.io/design-systems/27883/22a3f11f-af41-4944-9728-526a99b9d211.png)  
 day, 12 days 16 hours
 12d 16h  
   
-![hour](https://studio-assets.supernova.io/design-systems/27883/c5946fca-c8b9-4887-b62f-62dedf9d977f.png)  
+![hour](https://studio-assets.supernova.io/design-systems/27883/a421b511-dff8-46d5-961e-f28915265747.png)  
 hour, 16 hours 20 minutes
 16h 20m  
   
-![minute](https://studio-assets.supernova.io/design-systems/27883/d03e5dc1-5d01-4cc6-aec7-e064c4f2bddc.png)  
+![minute](https://studio-assets.supernova.io/design-systems/27883/58bda4ac-f394-4782-bad8-7665f29604ac.png)  
 minute, 20 minutes 10 seconds
 20m 10s  
   
-![second](https://studio-assets.supernova.io/design-systems/27883/93d77688-d8eb-416a-9a2b-19cb87ee79e0.png)  
+![second](https://studio-assets.supernova.io/design-systems/27883/399c83c2-62f9-4edc-b976-ea28f365e978.png)  
 second, 0 minutes 12 seconds
 0m 17s  
   
@@ -91,7 +91,7 @@ second, 0 minutes 12 seconds
 Much like tags, timers are simple UI components comprised of a non-interactive colored container, a timer icon, and a text label. Their color indicates their state which is either “active” or “warning”.
 
   
-![timer-anatomy](https://studio-assets.supernova.io/design-systems/27883/ce800594-b75e-45f5-93d4-906a416036d4.png)  
+![timer-anatomy](https://studio-assets.supernova.io/design-systems/27883/d9bc866b-2f70-4ee3-90bb-f01023ea92f5.png)  
 timer-anatomy, 1. Container — available in two colors used to display two different states.
 2. Timer icon — icons are placed 8 px to the left side of the text label.
 3. Text label — displays two numeric and text values.  
@@ -115,16 +115,16 @@ After reaching zero, the time will either disappear or it will turn into a tag c
 ## Dos & Don’ts
 
   
-![✅ DO](https://studio-assets.supernova.io/design-systems/27883/1f375011-675d-4657-87ea-d97a9fe97dde.png)  
+![✅ DO](https://studio-assets.supernova.io/design-systems/27883/fe48b337-ad45-4b28-bc1f-2fe06981aaf0.png)  
 ✅ DO, Use timers to display countdown information that is needed to alert the user that an important game or event is about to begin. They are designed to visually stand out on the UI.  
   
-![🚫 DON'T](https://studio-assets.supernova.io/design-systems/27883/d1286cfb-f4f1-4136-8044-3f6f5420b0e9.png)  
+![🚫 DON'T](https://studio-assets.supernova.io/design-systems/27883/cec2f702-af07-42ea-bc54-963fb71eb0b6.png)  
 🚫 DON'T, Avoid using timers for any other purposes, such as marketing messages or general system info — this is not their purpose. Timers are used for start-time alerts only.  
   
-![✅ DO](https://studio-assets.supernova.io/design-systems/27883/928b119f-668a-4fed-b519-57203dcf107f.png)  
+![✅ DO](https://studio-assets.supernova.io/design-systems/27883/0e55879d-05da-465f-81fe-61abc841f5e8.png)  
 ✅ DO, Use timers in their intended way only — a typical UI should only contain a timer if it is needed to alert the user. It is acceptable to have multiple timers if the design requires it, however, each timer used should be related to an individual event.  
   
-![🚫 DON'T](https://studio-assets.supernova.io/design-systems/27883/b90c5179-9f5c-41ca-9975-3161aae9ff68.png)  
+![🚫 DON'T](https://studio-assets.supernova.io/design-systems/27883/15626582-f714-4081-b4ef-b3be5b0d7053.png)  
 🚫 DON'T, Never use timers anywhere except their normal position — user confusion can occur if there is a random placement pattern of this component. Keep their placement and position consistent throughout your layout design.  
   
 

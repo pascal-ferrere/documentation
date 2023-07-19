@@ -9,11 +9,8 @@ Positioned at the bottom of the UI, the tab bar offers both easy reachability an
 
 The tab bar offers users five different primary areas within the app to navigate to — each destination is represented by an animated icon and text label. When an icon is tapped, the user is taken to the top-level navigation destination associated with that icon.
 
-> Be warned:  
-> In progress
-
   
-![tab-bar_cover](https://studio-assets.supernova.io/design-systems/27883/c72261f3-22b6-4dce-9cfb-581954383fdd.png)  
+![tab-bar_cover](https://studio-assets.supernova.io/design-systems/27883/22196575-c6de-4892-9e06-0345961ae9bd.png)  
 tab-bar_cover  
 
 
@@ -50,7 +47,7 @@ Tab bars vary by region and also if they support notifications or not (depends i
 Tab bars are always displayed full-width.
 
   
-![Legend](https://studio-assets.supernova.io/design-systems/27883/bedf3894-ea50-497c-a50f-83c0986ad265.png)  
+![Legend](https://studio-assets.supernova.io/design-systems/27883/a6ac8974-8f00-4c2c-8538-fae28a02d6c4.png)  
 Legend, 1. Container
 2. Icon
 3. Text label
@@ -61,7 +58,7 @@ Legend, 1. Container
 ## Placement
 
   
-![tab-bar_placement](https://studio-assets.supernova.io/design-systems/27883/d0051ea3-6680-4d1f-95e2-e0e2afc8efb4.png)  
+![tab-bar_placement](https://studio-assets.supernova.io/design-systems/27883/848fc07d-a399-4653-9f52-852ed6657701.png)  
 tab-bar_placement  
 
 

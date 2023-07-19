@@ -1,14 +1,14 @@
 
 # Header
 
-The header is a sticky, modular element that appears across the top of the application screen. It is considered one of the most important elements on the UI because it allows the user to navigate, search, access key features of the app, etc.
+The header is a sticky, modular element that appears across the top of the application screen. 
 
 ---
 
-In progress
+The header considered one of the most important elements on the UI because it allows the user to navigate, search, access key features of the app, etc.
 
   
-![header-cover](https://studio-assets.supernova.io/design-systems/27883/32409351-13ae-4a57-bd03-c672de639d95.png)  
+![header-cover](https://studio-assets.supernova.io/design-systems/27883/d8e23660-1301-4cb7-b309-1f64d699c0ad.png)  
 header-cover  
 
 
@@ -39,7 +39,7 @@ Headers change state according to the interaction that takes place, e.g. using t
 Headers also change state depending on whether the user is logged-in or not. Occasionally, the header element will temporarily disappear, however, this only occurs when a full-screen image appears (such as a promo ad).
 
   
-![header-state](https://studio-assets.supernova.io/design-systems/27883/66e58833-2073-4d36-a2ce-9813d0ffd93d.png)  
+![header-state](https://studio-assets.supernova.io/design-systems/27883/48d7d167-7b39-444f-8a9f-6d601107e5a1.png)  
 header-state  
 
 
@@ -56,17 +56,17 @@ header-state
 As mentioned, different header variants are used for different purposes or applications. It should be intuitive which header is used for which purpose (just by looking at them in the library).
 
   
-![header-variant-1](https://studio-assets.supernova.io/design-systems/27883/39954ed2-098c-4c0c-a4d4-1387ff535b66.png)  
+![header-variant-1](https://studio-assets.supernova.io/design-systems/27883/8bee19ec-385f-4920-8a91-9aa470fd346a.png)  
 header-variant-1  
 
 
   
-![header-variant-2](https://studio-assets.supernova.io/design-systems/27883/dec0ba40-41fd-4078-ad28-ea30fe79f27e.png)  
+![header-variant-2](https://studio-assets.supernova.io/design-systems/27883/a4bb99cb-9521-4e8a-999d-d318d969a628.png)  
 header-variant-2  
 
 
   
-![header-variant-3](https://studio-assets.supernova.io/design-systems/27883/65a211be-f1ed-443e-959c-6e5ae968fb02.png)  
+![header-variant-3](https://studio-assets.supernova.io/design-systems/27883/c9133744-1709-43aa-9bb2-ba6cf4f9e317.png)  
 header-variant-3  
 
 

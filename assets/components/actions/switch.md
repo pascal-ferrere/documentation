@@ -4,7 +4,7 @@
 ---
 
   
-![switch-cover](https://studio-assets.supernova.io/design-systems/27883/c4c13c8d-1d01-48e1-9427-aff6f2bd646f.png)  
+![switch-cover](https://studio-assets.supernova.io/design-systems/27883/60195816-2877-43f4-aee1-91a7d66e288d.png)  
 switch-cover  
 
 
@@ -35,13 +35,13 @@ When a toggle switch is active its container will have a green background. When 
 ### Toggle Switches exist in these states:
 
   
-![switch off](https://studio-assets.supernova.io/design-systems/27883/49f68d9d-2830-4936-ac22-255e08d5e618.png)  
+![switch off](https://studio-assets.supernova.io/design-systems/27883/b3c4ece0-a696-4b15-a10a-ac7ddedbe10b.png)  
 switch off  
-![switch off disabled](https://studio-assets.supernova.io/design-systems/27883/f9f2a78b-54fc-4396-a88d-f86948843ae8.png)  
+![switch off disabled](https://studio-assets.supernova.io/design-systems/27883/b31fef4d-2875-468c-ace3-8615ab9af9dc.png)  
 switch off disabled  
-![switch on](https://studio-assets.supernova.io/design-systems/27883/7156e425-fd4d-4264-87bb-cd30a95f1b4b.png)  
+![switch on](https://studio-assets.supernova.io/design-systems/27883/4911da75-d912-4441-a72d-06be27f53122.png)  
 switch on  
-![switch on disabled](https://studio-assets.supernova.io/design-systems/27883/7004f92c-3fd3-490d-988f-b9605567dad3.png)  
+![switch on disabled](https://studio-assets.supernova.io/design-systems/27883/8c4e55f4-6f7b-46d9-8906-33c020358613.png)  
 switch on disabled  
 
 
@@ -50,7 +50,7 @@ switch on disabled
 Toggle switches are very simple UI components comprised of a simple container with a filled background known as a “track” and a simple circle which acts as the “thumb” for the switch.
 
   
-![Legend](https://studio-assets.supernova.io/design-systems/27883/9f8a7531-33a0-4304-8fbe-0f46606b1d0f.png)  
+![Legend](https://studio-assets.supernova.io/design-systems/27883/27c107c9-9198-4726-a1c7-ed833b677d17.png)  
 Legend, 1. Track
 2. Thumb  
   
@@ -71,16 +71,16 @@ It is important to understand that whatever the action is, the state change must
 ## Dos & Don’ts
 
   
-![✅ DO](https://studio-assets.supernova.io/design-systems/27883/acefea0e-97c1-42b0-a653-cfdcc3705242.png)  
+![✅ DO](https://studio-assets.supernova.io/design-systems/27883/000ea702-ed11-4f9c-896a-84493f6f6396.png)  
 ✅ DO, Use toggle switch components to immediately activate or deactivate system functionality or preferences.  
   
-![🚫 DON'T](https://studio-assets.supernova.io/design-systems/27883/1e680f07-85f0-4e3d-999d-7fa01ecbdf3f.png)  
+![🚫 DON'T](https://studio-assets.supernova.io/design-systems/27883/d672646d-8a83-4e4c-b1ef-518f041aed8b.png)  
 🚫 DON'T, Never require the user to press “Submit” or “Save” to apply the selected state — toggle switches must provide instant actions upon interaction.  
   
-![✅ DO](https://studio-assets.supernova.io/design-systems/27883/1e07c39d-b268-44fe-9381-013a8aaaef36.png)  
+![✅ DO](https://studio-assets.supernova.io/design-systems/27883/7fd6a713-9bd3-42ba-9a30-bf87eeb147a5.png)  
 ✅ DO, Ideally, one switch should be applied to one action. For multiple actions, use multiple switches.  
   
-![🚫 DON'T](https://studio-assets.supernova.io/design-systems/27883/51a39afc-a6ed-4067-adfd-21d922efeb0e.png)  
+![🚫 DON'T](https://studio-assets.supernova.io/design-systems/27883/087db283-cff2-4c3f-9f16-ae4c397abbf1.png)  
 🚫 DON'T, If you need to force the user to choose one selection from a list of multiple options, please consider using different UI elements (such as radio buttons).  
   
 
