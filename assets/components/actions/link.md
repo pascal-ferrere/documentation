@@ -12,7 +12,7 @@ Links are easy to spot on the UI because they look different to other text eleme
 Links are not used within native apps, however, they do appear on websites for both desktop and mobile.
 
   
-![link-cover](https://studio-assets.supernova.io/design-systems/27883/c15f06d9-2e1d-4ca0-8b29-9b5b3e772abc.png)  
+![link-cover](https://studio-assets.supernova.io/design-systems/27883/43549708-5f48-4dcc-bc36-d9ba766793b9.png)  
 link-cover  
 
 
@@ -49,7 +49,7 @@ Links are offered in different text sizes to match the corresponding text styles
   
 | Column 1 | Column 2 | Column 3 | Column 4 |  
 | --- | --- | --- | --- |  
-| ![Img](https://studio-assets.supernova.io/design-systems/27883/c76fd7ac-a968-4cb8-b785-f4d7cd94e62e.png) | ![Img](https://studio-assets.supernova.io/design-systems/27883/c8a409e1-b60f-4dd0-964f-fd07d3cb4de0.png) | ![Img](https://studio-assets.supernova.io/design-systems/27883/af4f5fb7-c91b-4b91-bd3c-8b42460bd1be.png) | ![Img](https://studio-assets.supernova.io/design-systems/27883/affd12f9-02e2-4d2f-96e9-24973d8ec873.png) |  
+| ![Img](https://studio-assets.supernova.io/design-systems/27883/e677a2f5-ed71-41a0-b1e0-0268a5f1f818.png) | ![Img](https://studio-assets.supernova.io/design-systems/27883/afc1e091-d38d-4277-a51d-7c4cc4eada50.png) | ![Img](https://studio-assets.supernova.io/design-systems/27883/a3896c67-b19c-4786-b85a-d20450d7b7d7.png) | ![Img](https://studio-assets.supernova.io/design-systems/27883/64c1b3b6-0692-4df1-ac34-af79f99e0e9c.png) |  
 | *H4* | *Large* | *Small* | *Disclaimer* |  
 
 

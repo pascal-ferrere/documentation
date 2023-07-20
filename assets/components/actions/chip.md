@@ -8,7 +8,7 @@ The purpose of a chip component is to present contextual and supplemental option
 As an interactive element, chips provide visual cues to users allowing them to take action or make selections. And because they are selectable, chips can either filter content or perform some other action once they have been clicked.
 
   
-![chip-cover](https://studio-assets.supernova.io/design-systems/27883/ccac9711-d7d5-4890-a33d-e357dc13da4d.png)  
+![chip-cover](https://studio-assets.supernova.io/design-systems/27883/ffae6eb8-5b3a-439f-9f6c-a54c83376fdb.png)  
 chip-cover  
 
 
@@ -19,7 +19,7 @@ At a higher lever, chips represent forking paths in the user-flow experience, wh
 ## Usage
 
   
-![chip-example-1](https://studio-assets.supernova.io/design-systems/27883/61d362fe-43b9-4ab6-8c77-35ce4b923d13.png)  
+![chip-example-1](https://studio-assets.supernova.io/design-systems/27883/32668f2e-e6ae-41f1-a015-851265e69b04.png)  
 chip-example-1  
 
 
@@ -42,8 +42,8 @@ When selected, chips display content related to it, or they highlight some other
   
 | Column 1 | Column 2 | Column 3 | Column 4 |  
 | --- | --- | --- | --- |  
-| ![Img](https://studio-assets.supernova.io/design-systems/27883/8c1428ee-e5f1-46ae-a53e-bf92548a40b6.png) | ![Img](https://studio-assets.supernova.io/design-systems/27883/d07c36ed-b48c-4cf0-bd3b-cb0bec429a47.png) | ![Img](https://studio-assets.supernova.io/design-systems/27883/69f82a63-dd6a-4c1a-9182-3e23b048cc84.png) | ![Img](https://studio-assets.supernova.io/design-systems/27883/c253d8d7-e2a2-47db-8f4b-3fd8f214bc30.png) |  
-| ![Img](https://studio-assets.supernova.io/design-systems/27883/f3332eb0-7829-41e6-9420-80d62e20f9ba.png) | ![Img](https://studio-assets.supernova.io/design-systems/27883/e6db2ae8-59e7-4c71-97e6-6ce8035cf661.png) | ![Img](https://studio-assets.supernova.io/design-systems/27883/46fbe13e-f79d-4c30-a0aa-60a08d13ff7e.png) | ![Img](https://studio-assets.supernova.io/design-systems/27883/756722fa-0605-4782-8c89-cdfcdfb02127.png) |  
+| ![Img](https://studio-assets.supernova.io/design-systems/27883/04e7c5ba-a712-4913-8b69-3ce82b303767.png) | ![Img](https://studio-assets.supernova.io/design-systems/27883/bddde74a-341a-484a-a079-2031e039b02a.png) | ![Img](https://studio-assets.supernova.io/design-systems/27883/4c0d0864-d641-4abc-a295-327eacd4b779.png) | ![Img](https://studio-assets.supernova.io/design-systems/27883/2366cebf-d9ad-41eb-96f4-97610f6d262c.png) |  
+| ![Img](https://studio-assets.supernova.io/design-systems/27883/19006afd-4fe8-4d6a-8992-bfffd87f4e92.png) | ![Img](https://studio-assets.supernova.io/design-systems/27883/ede75a56-2f35-4808-9a6e-d25e2f455387.png) | ![Img](https://studio-assets.supernova.io/design-systems/27883/bd154c4d-08b8-4297-833c-64d9106790bb.png) | ![Img](https://studio-assets.supernova.io/design-systems/27883/7f986e5a-c3bb-4915-86d7-ed672f4d0ef0.png) |  
 | *Unselected* | *Unselected pressed* | *Selected* | *Selected pressed* |  
 
 
@@ -64,21 +64,21 @@ Chips are offered in the following variants:
 - Text + icon
 
   
-![chip-text-icon](https://studio-assets.supernova.io/design-systems/27883/97eb0629-1361-427d-9d6a-f011c8ab1563.png)  
+![chip-text-icon](https://studio-assets.supernova.io/design-systems/27883/72410d93-7a7a-491b-ba67-ef5075a65068.png)  
 chip-text-icon  
 
 
 - Text only
 
   
-![chip-text-only](https://studio-assets.supernova.io/design-systems/27883/40e7fa8d-d160-43d9-b3b9-6e76489d3aae.png)  
+![chip-text-only](https://studio-assets.supernova.io/design-systems/27883/cea6c363-2873-4329-b902-b6dd0fdd2d46.png)  
 chip-text-only  
 
 
 - Sub-filter
 
   
-![chip-subfilter](https://studio-assets.supernova.io/design-systems/27883/d7f64b7e-f5d9-4364-b311-2640414c4b1f.png)  
+![chip-subfilter](https://studio-assets.supernova.io/design-systems/27883/36940bb1-557e-4fe9-bca0-ba139acd6f92.png)  
 chip-subfilter  
 
 
@@ -87,7 +87,7 @@ chip-subfilter
 Chips are formed from a container, a text label, and an icon (which always appears on the left of the text). Some variants are formed from just a solo icon.
 
   
-![Legend](https://studio-assets.supernova.io/design-systems/27883/1009454d-2495-47ed-9cd6-d0ee7957ae4b.png)  
+![Legend](https://studio-assets.supernova.io/design-systems/27883/c092b507-7ed9-4ea0-9329-50d75e758b2c.png)  
 Legend, 1. Container
 2. Text label
 3. Optional or solo icon  

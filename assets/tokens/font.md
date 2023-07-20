@@ -9,11 +9,11 @@
 
   
 **Token Group Font Family / family**:    
-rift: "Rift"  
-roboto: "Roboto"  
-metropolis: "Metropolis"  
 sf-pro-text: "SF Pro Text"  
 sf-pro-display: "SF Pro Display"  
+roboto: "Roboto"  
+rift: "Rift"  
+metropolis: "Metropolis"  
 
 
 ### Font sizes
@@ -38,13 +38,13 @@ xxxsmall: 10px
 
   
 **Token Group Font Weight / fontweight**:    
-bold: "Bold"  
 black: "Black"  
-medium: "Medium"  
-regular: "Regular"  
-bold-italic: "Bold Italic"  
 black-italic: "Black Italic"  
+bold: "Bold"  
+bold-italic: "Bold Italic"  
+medium: "Medium"  
 medium-italic: "Medium Italic"  
+regular: "Regular"  
 regular-italic: "Regular Italic"  
 
 
