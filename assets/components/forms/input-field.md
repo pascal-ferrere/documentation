@@ -8,7 +8,7 @@ Input fields allow users to enter editable text or numeric values into the UI.
 This component typically appears in forms and dialogs. Their function forms an integral part of the Betclic digital experience because they allow users to add customized information. Having been used for decades, input fields are considered a very traditional component, both in terms of design and user interactions. Their visual design and placement inside forms should indicate to the user that they need to input some information into the UI. The visual state of the input field signals to the user what is happening and whether their input was a success or not.
 
   
-![input-field-cover](https://studio-assets.supernova.io/design-systems/27883/22b0296d-db45-4054-8284-de8c2bad8b0c.png)  
+![input-field-cover](https://studio-assets.supernova.io/design-systems/27883/56eecf2e-f23a-460f-90ff-7b74eefc1e17.png)  
 input-field-cover  
 
 
@@ -33,9 +33,9 @@ We use three types of input fields:
   
 | Column 1 | Column 2 |  
 | --- | --- |  
-| ![Img](https://studio-assets.supernova.io/design-systems/27883/7b38cfaf-8048-4151-bcff-4234ea0f2a97.png) | ![Img](https://studio-assets.supernova.io/design-systems/27883/ef3634fb-b95e-4206-973b-182d35791b0d.png) |  
+| ![Img](https://studio-assets.supernova.io/design-systems/27883/e591e66b-6f84-4f99-a540-c6cb932ef4c0.png) | ![Img](https://studio-assets.supernova.io/design-systems/27883/4f356e11-0494-496b-becb-ca48ca8350d6.png) |  
 |  |  |  
-| ![Img](https://studio-assets.supernova.io/design-systems/27883/6ef00fef-d813-4f7a-8899-7ddb3ae0c2f2.png) | ![Img](https://studio-assets.supernova.io/design-systems/27883/93411241-f24c-48d1-b336-aa9719cc79de.png) |  
+| ![Img](https://studio-assets.supernova.io/design-systems/27883/9752d926-2e67-4d72-aa0b-cdffaa30279a.png) | ![Img](https://studio-assets.supernova.io/design-systems/27883/c2d3a874-0dc6-4bed-955f-bf9072fd5361.png) |  
 |  |  |  
 
 
@@ -54,15 +54,15 @@ All types of input fields use a container to provide a visual cue for interactio
   
 | Column 1 | Column 2 |  
 | --- | --- |  
-| ![Img](https://studio-assets.supernova.io/design-systems/27883/fc473429-5824-4a55-8a9b-9b7d4e625108.png) | ![Img](https://studio-assets.supernova.io/design-systems/27883/5eab45ff-b0ed-4e0c-8ee5-ae20220cceb6.png) |  
+| ![Img](https://studio-assets.supernova.io/design-systems/27883/b935b4da-c588-4507-9543-7541ee6962db.png) | ![Img](https://studio-assets.supernova.io/design-systems/27883/3b0e5451-5d05-419e-90ee-8e897238f6d2.png) |  
 | *Placeholder* | *Selected* |  
-| ![Img](https://studio-assets.supernova.io/design-systems/27883/81a00371-459f-4f0e-9c2b-20e9dc59698e.png) | ![Img](https://studio-assets.supernova.io/design-systems/27883/b04f9a1c-31de-496e-bf50-aa205bb656a8.png) |  
+| ![Img](https://studio-assets.supernova.io/design-systems/27883/1ab32fbc-9d8e-43b8-83e9-23d296cc9b23.png) | ![Img](https://studio-assets.supernova.io/design-systems/27883/428b2efa-8200-4b2f-b522-fb864e67e72b.png) |  
 | *Validation steps* | *Neutral message* |  
-| ![Img](https://studio-assets.supernova.io/design-systems/27883/33a85a11-216f-4a5d-93bc-dbfe1b99344f.png) | ![Img](https://studio-assets.supernova.io/design-systems/27883/1a3966a3-13ba-4451-82c5-7a3f03cc853a.png) |  
+| ![Img](https://studio-assets.supernova.io/design-systems/27883/4b4aba6b-0b46-4a55-9538-2c08610c6a2f.png) | ![Img](https://studio-assets.supernova.io/design-systems/27883/71202aa2-2e91-4054-8e43-9ba6cb7cc22c.png) |  
 | *Positive message* | *Error* |  
-| ![Img](https://studio-assets.supernova.io/design-systems/27883/5cb120a0-90df-40aa-ab0e-fec6839fd8f1.png) | ![Img](https://studio-assets.supernova.io/design-systems/27883/42e5d99b-ee96-4a9f-817e-4719ee56fb66.png) |  
+| ![Img](https://studio-assets.supernova.io/design-systems/27883/0054c1ae-615b-4b9e-b858-463178a5b698.png) | ![Img](https://studio-assets.supernova.io/design-systems/27883/9cb0846d-9009-4122-82e0-e61347b53b73.png) |  
 | *Error + alert* | *Error + alert + message* |  
-| ![Img](https://studio-assets.supernova.io/design-systems/27883/54128db7-96a3-45d4-9e50-efba2c295303.png) |  |  
+| ![Img](https://studio-assets.supernova.io/design-systems/27883/0087f1d4-ab1d-4f8b-8e72-d54dd2b0385a.png) |  |  
 | *Disabled* |  |  
 
 

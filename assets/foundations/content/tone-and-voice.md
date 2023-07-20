@@ -6,7 +6,7 @@ Betclic’s voice represents our values and DNA, it reflects who we choose to be
 ---
 
   
-![thumbnail_tone](https://studio-assets.supernova.io/design-systems/27883/6a02f395-9dd2-42fa-a857-ecd5f0055f63.png)  
+![thumbnail_tone](https://studio-assets.supernova.io/design-systems/27883/b84ce7ee-dad3-4c7b-b56b-773d0c61d421.png)  
 thumbnail_tone  
 
 

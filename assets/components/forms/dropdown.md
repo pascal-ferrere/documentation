@@ -10,7 +10,7 @@ Dropdowns are great for speeding-up user flows — this is because the user has 
 In basic terms, the dropdown component is a menu module in which options (hidden by default) are displayed after interacting. The user chooses an option and the flow continues.
 
   
-![dropdown-cover](https://studio-assets.supernova.io/design-systems/27883/123db3c8-d9ed-4179-b529-ab88c8af8ca8.png)  
+![dropdown-cover](https://studio-assets.supernova.io/design-systems/27883/a5439116-4cbe-4625-9ee2-8aa65dcd5f22.png)  
 dropdown-cover  
 
 

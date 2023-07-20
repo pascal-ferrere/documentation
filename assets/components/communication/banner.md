@@ -8,11 +8,9 @@ Banners display short, important messages to the user.
 Their appearance and message content is meant to be purposeful and task-specific, related to the system or betting experience in a way that is informative to the user. We do not use banners for marketing messages, their purpose is to either enhance the gaming experience or to inform the user of something important.
 
   
-![banner-cover](https://studio-assets.supernova.io/design-systems/27883/8e640c33-94fa-46ee-99c2-e6636bee17cd.png)  
+![banner-cover](https://studio-assets.supernova.io/design-systems/27883/d7cb76ea-0bc8-4948-8ee1-c21921a6e2cc.png)  
 banner-cover  
 
-
----
 
 ## Usage
 
@@ -33,7 +31,7 @@ Banners come in three variants:
 In general, floating banners are meant to stay on screen. Their main goal is to prompt the user to take some additional action expressed in the text label, for example, a floating banner could indicate to the user that they can get a bonus by adding an additional selection to their existing bet.
 
   
-![banner-variant-floating](https://studio-assets.supernova.io/design-systems/27883/dd3ec59b-6472-4706-a9ae-87fb3f0ff714.png)  
+![banner-variant-floating](https://studio-assets.supernova.io/design-systems/27883/16d17869-8584-4737-bbdb-257e7ea50fdb.png)  
 banner-variant-floating  
 
 
@@ -42,7 +40,7 @@ banner-variant-floating
 Sticky banners are meant to stay on screen. They are larger and very prominent. They are always placed at a specific spot within the UI, allowing content to scroll underneath. For error or negative messages, they can indicate why a negative state is happening, for example, why a bet is not valid. Sticky banners cannot be directly dismissed by the user, however, they will normally disappear after an action or state change occurs elsewhere.
 
   
-![banner-variant-sticky](https://studio-assets.supernova.io/design-systems/27883/91ca9820-7c9e-430e-9c02-2a04cd6a91d5.png)  
+![banner-variant-sticky](https://studio-assets.supernova.io/design-systems/27883/6f038f9c-ff6c-46e8-b36f-eef9adcc541e.png)  
 banner-variant-sticky  
 
 
@@ -51,7 +49,7 @@ banner-variant-sticky
 For specific use cases. Special banners are used to temporarily display an event that is happening during a game. For example "Big opportunity for PSG", or to indicate that a game is on hold, for example, if the referee is checking for a potential penalty.
 
   
-![banner-variant-special](https://studio-assets.supernova.io/design-systems/27883/3661c8f7-6683-400f-968f-ff27b87bd9f2.png)  
+![banner-variant-special](https://studio-assets.supernova.io/design-systems/27883/169ba120-c1cc-4a8f-8d9d-799caa0fd067.png)  
 banner-variant-special  
 
 
@@ -62,15 +60,15 @@ The color of banners informs the user of its state (and therefore, its purpose).
 Banners exist in these states:
 
   
-![Informative — Blue](https://studio-assets.supernova.io/design-systems/27883/d4ed6f2f-84b2-4dad-b5b2-580c964187c6.png)  
+![Informative — Blue](https://studio-assets.supernova.io/design-systems/27883/37e51e36-dc8f-4c4d-81fa-199159cac6b3.png)  
 Informative — Blue  
-![Multiplus (Floating only) — Orange](https://studio-assets.supernova.io/design-systems/27883/20dee803-0fb1-4a4e-81a5-1a0d0f63e6e8.png)  
+![Multiplus (Floating only) — Orange](https://studio-assets.supernova.io/design-systems/27883/6c8c68d6-2460-4d9b-9991-defce08f7f8c.png)  
 Multiplus (Floating only) — Orange  
-![Negative — Red](https://studio-assets.supernova.io/design-systems/27883/ddfb6fa7-5047-4f06-84ed-66fe597098b8.png)  
+![Negative — Red](https://studio-assets.supernova.io/design-systems/27883/1fac7dc7-428e-4d5d-a541-2f2abddfc2ce.png)  
 Negative — Red  
-![Positive — Green](https://studio-assets.supernova.io/design-systems/27883/1201ffff-9252-4755-bd91-5c9fc4a2195e.png)  
+![Positive — Green](https://studio-assets.supernova.io/design-systems/27883/92819ff7-f5ab-4876-b6c3-e59a1479e4b3.png)  
 Positive — Green  
-![Warning — Yellow](https://studio-assets.supernova.io/design-systems/27883/088b32ea-a20c-4764-b652-dd322475403a.png)  
+![Warning — Yellow](https://studio-assets.supernova.io/design-systems/27883/3069c98a-eb9b-456b-8f41-6ba62410b084.png)  
 Warning — Yellow  
 
 
@@ -79,7 +77,7 @@ Warning — Yellow
 Banners are comprised of a rectangle-shaped container with a text label. The color of the container represents the purpose of the banner (its state).
 
   
-![Legend](https://studio-assets.supernova.io/design-systems/27883/acbab91c-51e2-4e5d-9065-0ab8d95b13bf.png)  
+![Legend](https://studio-assets.supernova.io/design-systems/27883/f6c91cdd-ef67-4f19-b168-0323c3fc6d3e.png)  
 Legend, 1. Container
 2. Text label*
 3. Icon**  
@@ -105,16 +103,16 @@ In general, banners are not interactive and their behavior is defined by the typ
 ## Dos & Don’ts
 
   
-![✅ DO](https://studio-assets.supernova.io/design-systems/27883/de102b22-d8a4-450f-8baf-b85de0718ee3.png)  
+![✅ DO](https://studio-assets.supernova.io/design-systems/27883/2dfb6c92-bd32-4745-8d2f-253f672617f4.png)  
 ✅ DO, Use banners to display a short, concise message to the user. It can either just be advisory (such as a prompt) or it can require them to take some action somewhere else in the UI (banners are generally not interactive).  
   
-![⛔️ DON'T](https://studio-assets.supernova.io/design-systems/27883/3d8941fb-6230-49cc-ae9f-029c5ac22769.png)  
+![⛔️ DON'T](https://studio-assets.supernova.io/design-systems/27883/9659e99e-b5e2-40a5-862d-28d1919d0bdf.png)  
 ⛔️ DON'T, Never use an ellipsis to truncate a message in a banner — this is not how we use banners. If your message is too long, you need to revise and edit it.  
   
-![✅ DO](https://studio-assets.supernova.io/design-systems/27883/e37f41d1-c4a2-441e-a539-d8e9616f9993.png)  
+![✅ DO](https://studio-assets.supernova.io/design-systems/27883/fe262bca-fccf-4810-a53b-fab28f65928b.png)  
 ✅ DO, Use banners to display messages that are related to the system or gaming experience in a useful and meaningful way. We want our users to understand the patterns that banners are used in so that they learn not to ignore them.  
   
-![⛔️ DON'T](https://studio-assets.supernova.io/design-systems/27883/6f2b38bd-6610-4878-a850-3ea344c135ea.png)  
+![⛔️ DON'T](https://studio-assets.supernova.io/design-systems/27883/051fdcd1-58d7-453d-91bb-45b981ef72a9.png)  
 ⛔️ DON'T, We do not use banners for generic marketing messages — this is not the purpose of banners.  
   
 

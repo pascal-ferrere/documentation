@@ -6,7 +6,7 @@ Progress bars are simple non-interactive components that provide visual feedback
 ---
 
   
-![progress-bar-cover](https://studio-assets.supernova.io/design-systems/27883/03170829-37ba-4c77-8113-2655dc09861a.png)  
+![progress-bar-cover](https://studio-assets.supernova.io/design-systems/27883/3dae15b1-ee4b-4de8-8842-788347b025d7.png)  
 progress-bar-cover  
 
 
@@ -37,12 +37,12 @@ The way that this is displayed depends on the variant of the component used. Sim
 Betclic products do not use animated “loading style” progress bars, so the user will never view the state change. They will only see this component in its current “as is” state.
 
   
-![progress-bar-variant-A](https://studio-assets.supernova.io/design-systems/27883/33eb10b1-dba7-4653-92b5-eacb4d266629.png)  
+![progress-bar-variant-A](https://studio-assets.supernova.io/design-systems/27883/daaa03fa-c698-4a8e-b1df-ba33d01698b1.png)  
 progress-bar-variant-A  
 
 
   
-![progress-bar-variant-B](https://studio-assets.supernova.io/design-systems/27883/b33af759-8a55-4389-8cd1-2eeaf0e4f7e6.png)  
+![progress-bar-variant-B](https://studio-assets.supernova.io/design-systems/27883/d9793f14-47b7-4522-8726-31aa4ea03e9f.png)  
 progress-bar-variant-B  
 
 
@@ -79,7 +79,7 @@ For the stepper variant specifically, there are individual containers that are f
 Please be aware that some progress bar variants use additional text labels to display information, such as percentage amounts or incremental numbers (known as counters). Other variants also use a flaming emoji icon as the thumb element.
 
   
-![Legend](https://studio-assets.supernova.io/design-systems/27883/be0e69eb-9e9e-44ba-a947-ba9c8a5ccdfb.png)  
+![Legend](https://studio-assets.supernova.io/design-systems/27883/d939bf11-f0fe-4548-b5d7-50a997b5b9ea.png)  
 Legend, 1. Track
 2. Progress bar
 3. Thumb
@@ -88,17 +88,17 @@ Legend, 1. Track
 
 
   
-![progress-bar-placement-A](https://studio-assets.supernova.io/design-systems/27883/c5df2081-1c41-4aea-b38a-753241c4426b.png)  
+![progress-bar-placement-A](https://studio-assets.supernova.io/design-systems/27883/8f868fe5-4b69-4ea6-aadb-07c3786a53c2.png)  
 progress-bar-placement-A  
 
 
   
-![progress-bar-placement-B](https://studio-assets.supernova.io/design-systems/27883/d311a649-19b4-4aa2-b34b-ad029b03b121.png)  
+![progress-bar-placement-B](https://studio-assets.supernova.io/design-systems/27883/698bd664-1d9b-4b18-b91b-36b2a1d472ec.png)  
 progress-bar-placement-B  
 
 
   
-![progress-bar-placement-C](https://studio-assets.supernova.io/design-systems/27883/ae51977a-4ea0-43cd-91f2-9e6f9ca61f12.png)  
+![progress-bar-placement-C](https://studio-assets.supernova.io/design-systems/27883/89fe474d-b8ea-4384-9dea-e3aa64185b0f.png)  
 progress-bar-placement-C  
 
 

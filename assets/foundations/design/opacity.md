@@ -4,5 +4,19 @@
 ---
 
   
-![thumbnail_opacity](https://studio-assets.supernova.io/design-systems/27883/e63d0476-8496-431b-8b44-76e3f98de3de.png)  
+![thumbnail_opacity](https://studio-assets.supernova.io/design-systems/27883/c9d9b2b2-9753-466f-aacb-554b10dee919.png)  
 thumbnail_opacity  
+
+
+## Transparency
+
+The use of opactiy allows us to play with the transparency of certain elements in order to create special effects. Using opacity must be done sparingly and only for specific cases.  
+
+> Be warned:  
+> Using custom opacity values on elements is not allowed. 
+
+  
+**Token Group Opacity / opacity**:    
+ghost: 0%  
+overlay: 90%  
+disabled: 40%  

@@ -8,7 +8,7 @@ The header is a sticky, modular element that appears across the top of the appli
 The header considered one of the most important elements on the UI because it allows the user to navigate, search, access key features of the app, etc.
 
   
-![header-cover](https://studio-assets.supernova.io/design-systems/27883/d8e23660-1301-4cb7-b309-1f64d699c0ad.png)  
+![header-cover](https://studio-assets.supernova.io/design-systems/27883/ce3fc201-28a6-4aa2-96e8-5ca1748961ad.png)  
 header-cover  
 
 
@@ -39,7 +39,7 @@ Headers change state according to the interaction that takes place, e.g. using t
 Headers also change state depending on whether the user is logged-in or not. Occasionally, the header element will temporarily disappear, however, this only occurs when a full-screen image appears (such as a promo ad).
 
   
-![header-state](https://studio-assets.supernova.io/design-systems/27883/48d7d167-7b39-444f-8a9f-6d601107e5a1.png)  
+![header-state](https://studio-assets.supernova.io/design-systems/27883/27e7d44a-d0f0-43c4-b730-2392c121c834.png)  
 header-state  
 
 
@@ -56,17 +56,17 @@ header-state
 As mentioned, different header variants are used for different purposes or applications. It should be intuitive which header is used for which purpose (just by looking at them in the library).
 
   
-![header-variant-1](https://studio-assets.supernova.io/design-systems/27883/8bee19ec-385f-4920-8a91-9aa470fd346a.png)  
+![header-variant-1](https://studio-assets.supernova.io/design-systems/27883/2c9298a9-4df5-42c4-89f4-e6f01e2e85c0.png)  
 header-variant-1  
 
 
   
-![header-variant-2](https://studio-assets.supernova.io/design-systems/27883/a4bb99cb-9521-4e8a-999d-d318d969a628.png)  
+![header-variant-2](https://studio-assets.supernova.io/design-systems/27883/5b53504d-b5f5-4a92-9296-2ff931d8b99f.png)  
 header-variant-2  
 
 
   
-![header-variant-3](https://studio-assets.supernova.io/design-systems/27883/c9133744-1709-43aa-9bb2-ba6cf4f9e317.png)  
+![header-variant-3](https://studio-assets.supernova.io/design-systems/27883/0bb2dcf8-4435-43a3-9ef5-13f66fb17d29.png)  
 header-variant-3  
 
 
