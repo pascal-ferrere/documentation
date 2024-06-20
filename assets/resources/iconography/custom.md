@@ -5,6 +5,8 @@
 
 ## Custom icons
 
+Polychromatic icons made of complex shapes. The color of 'custom' icons can't be changed. 
+
   
 ![top_bet_on](https://studio-assets.supernova.io/design-systems/27883/47a7cde9-25a0-42cf-8d06-b9a5b8532b45.png)  
 top_bet_on  

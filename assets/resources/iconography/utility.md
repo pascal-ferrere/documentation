@@ -5,7 +5,7 @@
 
 ## Utility icons
 
-Morbi ultricies lectus tempor dapibus iaculis. Nunc condimentum pellentesque mi. Suspendisse laoreet nisl ut urna tincidunt mattis.
+Monochromatic icons made of very simple shapes. The color of 'utility' icons can be changed through the use of tokens. 
 
   
 ![race_sprint](https://studio-assets.supernova.io/design-systems/27883/c3332999-d3fa-4d52-ba10-b9af011f5f9a.png)  

@@ -8,7 +8,7 @@ The counter component allows users to increase or decrease values quickly and ea
 This interactive component is similar to an input field in appearance, however, rather than its value being directly editable, it is controlled via two selectable plus and minus elements. Its visual design is intuitive to use by the user during the betting experience and as a consequence, its placement must be carefully considered on the UI.
 
   
-![counter-cover](https://studio-assets.supernova.io/design-systems/27883/d78bede0-de66-406a-9c71-178785ade7b2.png)  
+![counter-cover](https://studio-assets.supernova.io/design-systems/27883/143965cf-f195-4df8-9760-609d8deb0317.png)  
 counter-cover  
 
 
@@ -55,7 +55,7 @@ The main difference between input fields and counters is the selectable input co
 ## Placement
 
   
-![counter-placement](https://studio-assets.supernova.io/design-systems/27883/856b6fcc-7f08-465b-af9e-a8ada81442ed.png)  
+![counter-placement](https://studio-assets.supernova.io/design-systems/27883/7c7f79ae-3ca9-4050-9563-2823d898c826.png)  
 counter-placement  
 
 
@@ -108,9 +108,3 @@ Text label punctuation should be avoided unless necessary, such as two hyphenate
 ### *Localization*
 
 Translate your text labels to see if they adequately fit into the container layout. If designing in English, remember that it has one of the shortest character counts and often increases in length when translated into the main languages that Betclic products use — which is French, Polish, and Portuguese.
-
-> Yay:  
-> DO -> Use short and concise button labels to indicate the action to the user
-
-> Please note:  
-> DON'T -> Use long or indirect sentences to indicate an action

@@ -6,7 +6,7 @@ The main principles to make our writing clear, consistent, and localizable.
 ---
 
   
-![thumbnail_language](https://studio-assets.supernova.io/design-systems/27883/802c5ca1-7346-4611-a3b0-2a138d4ed58b.png)  
+![thumbnail_language](https://studio-assets.supernova.io/design-systems/27883/728ceb16-e503-43c7-9338-4bf03fb4a66b.png)  
 thumbnail_language  
 
 

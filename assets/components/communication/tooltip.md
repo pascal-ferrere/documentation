@@ -7,5 +7,5 @@
 > In progress 
 
   
-![tooltip-cover](https://studio-assets.supernova.io/design-systems/27883/80fdd3b2-0f84-4aa1-ad34-463dfbe48292.png)  
+![tooltip-cover](https://studio-assets.supernova.io/design-systems/27883/3f39eb88-ec9a-4a51-a488-765b179979ef.png)  
 tooltip-cover  

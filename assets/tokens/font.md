@@ -8,9 +8,9 @@
 ### Font families
 
   
-**Token Group Font Family / typo / family**:    
-sf-pro-display: "SF Pro Display"  
+**Token Group Font Family / family**:    
 sf-pro-text: "SF Pro Text"  
+sf-pro-display: "SF Pro Display"  
 roboto: "Roboto"  
 rift: "Rift"  
 metropolis: "Metropolis"  
@@ -19,7 +19,7 @@ metropolis: "Metropolis"
 ### Font sizes
 
   
-**Token Group Font Size / size / font**:    
+**Token Group Font Size / font**:    
 huge: 48px  
 mega: 160px  
 large: 20px  
@@ -37,21 +37,21 @@ xxxsmall: 10px
 ### Font weights
 
   
-**Token Group Font Weight / typo / fontweight**:    
-regular: "Regular"  
-regular-italic: "Regular Italic"  
-medium: "Medium"  
-medium-italic: "Medium Italic"  
-bold: "Bold"  
-bold-italic: "Bold Italic"  
+**Token Group Font Weight / fontweight**:    
 black: "Black"  
 black-italic: "Black Italic"  
+bold: "Bold"  
+bold-italic: "Bold Italic"  
+medium: "Medium"  
+medium-italic: "Medium Italic"  
+regular: "Regular"  
+regular-italic: "Regular Italic"  
 
 
 ### Line heights
 
   
-**Token Group Line Height / size / lineheight**:    
+**Token Group Line Height / lineheight**:    
 huge: 52px  
 mega: 168px  
 large: 24px  

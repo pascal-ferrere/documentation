@@ -5,7 +5,7 @@
 
 ## Logos
 
-Morbi ultricies lectus tempor dapibus iaculis. Nunc condimentum pellentesque mi. Suspendisse laoreet nisl ut urna tincidunt mattis.
+Official logos of the Betclic product and external providers. The color of 'logos' assets can't be changed. 
 
   
 ![betclic_transparent](https://studio-assets.supernova.io/design-systems/27883/1a132717-d6f9-4c5d-8d01-6ceb530df23d.png)  

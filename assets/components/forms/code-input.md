@@ -5,6 +5,3 @@
 
 > Be warned:  
 > In progress
-
-  
-  

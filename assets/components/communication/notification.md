@@ -1,14 +1,14 @@
 
 # Notification
 
-The notification component is a small, non-interactive foreground element. Notifications only contain numbers, they never display text. After appearing on the UI, the goal of a notification is to display numeric info to the user — info that is typically related to user profiles, game activity or betting inputs.
+The notification component is a small, non-interactive foreground element displaying numeric info to the user — info that is typically related to user profiles, game activity or betting inputs.
 
 ---
 
 Notifications do not appear when the UI is displayed in its default (non-interacted) state. Therefore, notifications are only displayed after an input or change has occurred. The presence of notifications can also be indefinite — meaning that they only disappear after they have been interacted with (depending on the notification this can be by visiting the entire related section or by visiting each related notification, e.g. viewing individual messages).
 
   
-![notification-cover](https://studio-assets.supernova.io/design-systems/27883/8dffe234-c758-4b9d-ac17-4fc9482a4f7e.png)  
+![notification-cover](https://studio-assets.supernova.io/design-systems/27883/00f73779-856e-4a80-af86-6ed9a168588d.png)  
 notification-cover  
 
 
@@ -33,12 +33,12 @@ Creating subtle and predictable usage patterns that improve the overall game exp
 Freebet notifications are used for a single purpose — to display monetary values and free bets available to the user.
 
   
-![notification-variant](https://studio-assets.supernova.io/design-systems/27883/1f764370-785c-48c0-a7b8-e6a9610a499d.png)  
+![notification-variant](https://studio-assets.supernova.io/design-systems/27883/8ff6c25f-7ff1-4072-a0e8-959d7bf59828.png)  
 notification-variant  
 
 
   
-![notification-example-B](https://studio-assets.supernova.io/design-systems/27883/04760a57-1207-4569-8206-661664a5966b.png)  
+![notification-example-B](https://studio-assets.supernova.io/design-systems/27883/1ae3eff3-b2c7-429c-83e0-75dc60f274b9.png)  
 notification-example-B  
 
 
@@ -61,7 +61,7 @@ The container and number are displayed in the colors designated by the UI librar
 Standard notifications are comprised of a circular colored container with a single or double-digit number displayed inside it. An optional “+” icon appears after a third digit is required but not displayed, e.g. 99+ which increases the character count to 3, thus widening the container. A corner radius of 16 px is used.
 
   
-![Legend](https://studio-assets.supernova.io/design-systems/27883/4381b43a-30e1-4270-ad77-e3de89e60c8c.png)  
+![Legend](https://studio-assets.supernova.io/design-systems/27883/e5f97c2e-eee5-4fe0-9289-cd4407589118.png)  
 Legend, 1. Container
 2. Number (text label)  
   
@@ -78,7 +78,7 @@ Another placement option is on the side of a text element (usually within the ro
 Above all — please always maintain placement patterns for notification components. Consistent UI behavior creates smooth gaming experiences.
 
   
-![Legend](https://studio-assets.supernova.io/design-systems/27883/c1212293-6a79-4c53-9fd2-8479653844cf.png)  
+![Legend](https://studio-assets.supernova.io/design-systems/27883/625879e6-3e7b-492c-985b-08bfb2624ad9.png)  
 Legend  
 
 
@@ -95,22 +95,22 @@ Unlike normal notifications, Freebet icons display currency, and can therefore d
 ## Dos & Don’ts
 
   
-![✅ DO](https://studio-assets.supernova.io/design-systems/27883/2d3e0c1f-475d-4b75-9c59-e62761bfb754.png)  
+![✅ DO](https://studio-assets.supernova.io/design-systems/27883/10578bea-fd89-4de6-b89a-d1e895f72912.png)  
 ✅ DO, Use notifications to subtly alert the user to numeric information, such as “number of messages” or “My Bets”.  
   
-![🚫 DON'T](https://studio-assets.supernova.io/design-systems/27883/5c795778-b7c4-48cd-a87b-eb2ba1bb4983.png)  
+![🚫 DON'T](https://studio-assets.supernova.io/design-systems/27883/a4106227-9c7b-4cee-8545-5616ac218f5f.png)  
 🚫 DON'T, Avoid using notifications to display text info — they should only contain numbers 1-99. Numbers higher than 99 are not displayed, only the “+” symbol is added to the value, 99.  
   
-![✅ DO](https://studio-assets.supernova.io/design-systems/27883/0d9d20ec-3abb-459d-8e94-36a81e71f4cf.png)  
+![✅ DO](https://studio-assets.supernova.io/design-systems/27883/30ff1169-e84a-45c8-9d5b-85d9dd4f2d83.png)  
 ✅ DO, Place notifications in recognisable patterns — this would normally be floating over the top right corner of an interactive icon.  
   
-![🚫 DON'T](https://studio-assets.supernova.io/design-systems/27883/f9c67434-f7ed-4582-91d1-7a2ac2ac0b7c.png)  
+![🚫 DON'T](https://studio-assets.supernova.io/design-systems/27883/892e1a5b-c09f-4f48-ad35-dfe1600358b9.png)  
 🚫 DON'T, Never use default notifications to display “0”. We remove notifications from the UI after its related icon has been interacted with and its content viewed. It behaves in the same way as your email inbox.  
   
-![✅ DO](https://studio-assets.supernova.io/design-systems/27883/6d1f8023-cdf6-4eca-895f-aa5425cf9f8d.png)  
+![✅ DO](https://studio-assets.supernova.io/design-systems/27883/bd0daeff-a653-4d9f-b825-acca3acc37c0.png)  
 ✅ DO, Use notifications for useful objectives, such as displaying how many bets are placed. Notifications can be ignored by the user, but the user should always understand that notifications are related to something important.  
   
-![🚫 DON'T](https://studio-assets.supernova.io/design-systems/27883/1031b9ed-934c-48c8-a1f0-23b41fa55e4f.png)  
+![🚫 DON'T](https://studio-assets.supernova.io/design-systems/27883/e88d9a06-60fb-4e19-a0ae-0f1715c98140.png)  
 🚫 DON'T, Avoid using notifications to display info that is not important or relevant to the overall gaming experience. The presence of a notification is to alert the user that there is some new information that they should view.  
   
 

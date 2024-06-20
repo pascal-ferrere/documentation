@@ -5,7 +5,7 @@
 
 ## Sports
 
-Morbi ultricies lectus tempor dapibus iaculis. Nunc condimentum pellentesque mi. Suspendisse laoreet nisl ut urna tincidunt mattis.
+Visual representation of all available sports in the Betclic product. The color of 'sports' icons can't be changed. 
 
   
 ![sport_wrestling](https://studio-assets.supernova.io/design-systems/27883/3f4cd1d9-df4f-40bb-9d3c-911cd900e2a4.png)  

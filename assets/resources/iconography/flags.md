@@ -5,7 +5,7 @@
 
 ## Flags
 
-Morbi ultricies lectus tempor dapibus iaculis. Nunc condimentum pellentesque mi. Suspendisse laoreet nisl ut urna tincidunt mattis.
+Visual representation of all available counties in the Betclic product. The color of 'flags' icons can't be changed. 
 
 ### Africa
 
